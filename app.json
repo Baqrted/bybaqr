@@ -1,7 +1,7 @@
 {
- "name": "TeleBot - UserBot",
- "description": "An advanced Telethon Userbot, from @TeleBotSupport",
- "logo": "https://telegra.ph/file/34b810002e7a3ee86a21e.png",
+ "name": "bybaqr",
+ "description": "An advanced Telethon Userbot, from @telethoncat",
+ "logo": "https://telegra.ph/file/9ca9a06d80bcc91f27de4.png",
  "keywords": [
   "telegram",
   "userbot",
@@ -9,9 +9,9 @@
   "modular",
   "productivity"
  ],
- "repository": "https://github.com/xditya/TeleBot/",
- "website": "https://xditya.gitbook.io/telebot/",
- "success_url": "https://t.me/TeleBotHelp/13",
+ "repository": "https://github.com/Baqrted/bybaqr/",
+ "website": "https://telegram.org/",
+ "success_url": "https://t.me/telethoncat/",
  "stack": "container",
  "env": {
   "ENV": {
