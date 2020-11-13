@@ -5,7 +5,7 @@
  "keywords": [
   "telegram",
   "userbot",
-  "TeleBot",
+  "baebdvbot",
   "modular",
   "productivity"
  ],
@@ -20,7 +20,7 @@
   },
   "TEMP_DOWNLOAD_DIRECTORY": {
    "description": "Where downloaded files will go.",
-   "value": "./telebot/DOWNLOADS/",
+   "value": "./baebdvbot/DOWNLOADS/",
    "required": false
   },
   "APP_ID": {
