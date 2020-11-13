@@ -49,7 +49,7 @@ async def startmute(event):
     except Exception as e:
         await eor(event, "Error occured!\nError is " + str(e))
     else:
-        await eor(event, "Successfully muted that person")
+        await eor(event, "تم كتم المستخدم بنجاح ✅")
 
 
 @telebot.on(admin_cmd(outgoing=True, pattern=r"unmute ?(\d+)?"))
